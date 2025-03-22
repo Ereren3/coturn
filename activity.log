@@ -387,3 +387,4 @@
 2025-07-03 11:03:00 | DEBUG | repo=coturn | action=edit | files=3
 2025-06-09 12:28:00 | DEBUG | repo=coturn | action=commit
 2025-03-23 14:12:00 | DEBUG | repo=coturn | action=commit
+2025-03-21 21:07:00 | WARN | repo=coturn | action=commit
