@@ -592,3 +592,5 @@
 2025-06-18 15:52:00 | WARN | repo=coturn | action=commit
 2025-04-02 12:34:00 | DEBUG | repo=coturn | action=edit | files=3
 2025-08-06 19:04:00 | WARN | repo=coturn | action=commit
+2025-01-20 13:22:00 | DEBUG | repo=coturn | action=pull
+2025-07-23 07:01:00 | DEBUG | repo=coturn | action=commit
