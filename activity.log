@@ -751,3 +751,5 @@
 2025-12-05 19:03:00 | INFO | repo=coturn | action=commit
 2025-02-22 19:49:00 | INFO | repo=coturn | action=test | passed=true
 2025-12-12 08:03:00 | DEBUG | repo=coturn | action=commit
+2025-05-26 18:31:00 | DEBUG | repo=coturn | action=test | passed=true
+2025-10-18 17:17:00 | WARN | repo=coturn | action=commit
