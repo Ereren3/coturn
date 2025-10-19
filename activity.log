@@ -571,3 +571,5 @@
 2025-04-04 07:26:00 | DEBUG | repo=coturn | action=pull
 2025-10-09 09:43:00 | WARN | repo=coturn | action=commit
 2025-07-11 11:19:00 | DEBUG | repo=coturn | action=commit
+2025-03-05 20:27:00 | DEBUG | repo=coturn | action=pull
+2025-10-19 08:25:00 | WARN | repo=coturn | action=commit
