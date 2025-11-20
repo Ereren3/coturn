@@ -304,3 +304,5 @@
 2025-10-16 18:55:00 | WARN | repo=coturn | action=commit
 2025-02-02 11:11:00 | INFO | repo=coturn | action=commit
 2025-09-13 11:15:00 | DEBUG | repo=coturn | action=commit
+2025-12-01 21:49:00 | DEBUG | repo=coturn | action=edit | files=3
+2025-11-19 20:53:00 | INFO | repo=coturn | action=commit
