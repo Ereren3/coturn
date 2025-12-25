@@ -207,3 +207,5 @@
 2025-05-08 08:52:00 | WARN | repo=coturn | action=pull
 2025-09-16 13:44:00 | WARN | repo=coturn | action=commit
 2025-02-21 14:58:00 | DEBUG | repo=coturn | action=commit
+2025-01-08 08:52:00 | WARN | repo=coturn | action=edit | files=4
+2025-12-24 18:20:00 | INFO | repo=coturn | action=commit
